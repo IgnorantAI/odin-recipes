@@ -7,3 +7,5 @@ It turns out I am supposed to mention what I am capable of at the moment of this
 Well, not much to be honest... I am still getting used to the UK keyboard layout (it`s more practical for coding compared to the italian one) and I can barely write headers with <"h1"> and such. Also, no CSS whatsoever at this point.
 
 Wish me luck!
+
+Edit #1 : Live site : https://github.io/IgnorantAI/odin-recipes
