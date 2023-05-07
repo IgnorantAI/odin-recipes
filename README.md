@@ -14,4 +14,4 @@ Wish me luck!
 #
 07.05.23 Edit #3 : It's been a while but i am back
 #
-07.05.23 Edit #4 : More tests...
+07.05.23 Edit #4 : First CSS implementation
