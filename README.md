@@ -9,5 +9,7 @@ Well, not much to be honest... I am still getting used to the UK keyboard layout
 Wish me luck!
 
 23.04.23 Edit #1 : Live site : https://ignorantai.github.io/odin-recipes/
+
 25.04.23 Edit #2 : We begin with some CSS
+
 07.05.23 Edit #3 : It's been a while but i am back
