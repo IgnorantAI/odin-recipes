@@ -10,8 +10,10 @@ Wish me luck!
 
 23.04.23 Edit #1 : Live site : https://ignorantai.github.io/odin-recipes/
 #
-25.04.23 Edit #2 : We begin with some CSS
+23.05.04 Edit #2 : We begin with some CSS
 #
-07.05.23 Edit #3 : It's been a while but i am back
+23.05.07 Edit #3 : It's been a while but i am back
 #
-07.05.23 Edit #4 : First CSS implementation
+23.07.05 Edit #4 : First CSS implementation
+#
+23.10.02 Edit #6 : So it seems that I lost 1 edit because I forgot to commit the changes to the README file, oh well we learned something today as well.
