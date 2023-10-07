@@ -2,10 +2,11 @@ body {
     background-color: rgb(83, 113, 153);
     font-family: Arial, Helvetica, sans-serif;
 }
-
-div {
+ 
+.header_container {
     display:flex;
-    justify-content:space-around;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .border {
@@ -15,40 +16,33 @@ div {
     background-color: whitesmoke;
     }
 
-.title {
-    justify-self: center;
-    font-size: 2em;
-    color: orange;
-}
-
 .logo  {
-    justify-content: center;
-    align-self: center;
+    justify-self:center;
     background-color: transparent;
     border: 0cap;
-    }
+}
 
-#icon {
-    align-self: center;
+.title {
+    font-size: 2em;
+    color: orange;
 }
 
 ol{
     list-style-type: disc;
 }
 
-/* ol li::before{
+ ol li::before{
     content:"\2022";
     color: red;
     font-weight: bold;
     display: inline-block;
     width: 1em; 
     margin-left: -1em;
-} */
+} 
 
-code {
+ code {
     background-color: #999999;
     border-radius: 25px;
-    /* font-family: courier, monospace; */
     padding: 0 3px;
     color: rgb(153, 18, 18);
   }
@@ -67,36 +61,44 @@ h3 {
   color: white;
   font-size: 1.5em;
   /* border-bottom: 1px solid white; */
-}
+}  
 
-.container div {
-    display: grid;
-    background-color: rgb(151, 151, 151);
+.container {
+    display: flex;
+    flex-wrap: wrap;
     height: auto;
     margin: 10px;
-
+    gap: 10px;
 }
 
-.first {
-    display: ;
+.cards {
+    display: flex;
+    flex: 1 1 0px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    border: 1px solid;
+    border-color: white;
+    justify-content: center;
 }
+
+.cards p {
+    background-color: #cecece;
+    padding: 5px 10px;
+    margin: 10px;
+    border: 1px solid;
+    width: 300px;
+}   
 
 div.sub_title {
     background-color: #cecece;
-    margin: 10px;
     padding: 5px 10px;
+    margin: 10px;
+    border: 1px solid;
 }
 
-.first p {
-    background-color: #cecece;
-    padding: 20px 10px;
-    /* margin: 10px 10px; */
-}   
-
-.second {
-    asd
-}
-
-.third {
-    /* column-span: 2; */
+img {
+    max-width: 300px;
+    max-height: 300px;
 }
